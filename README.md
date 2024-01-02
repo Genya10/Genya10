@@ -22,3 +22,13 @@ I'm a Frontend developer. I live in Ukraine.
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badget&logo=express)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-090909?style=for-the-badget&logo=sequelize)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genya10&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genya10&hide=stars,prs,contribs&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Genya10&repo=kruidvat-react)](https://Genya10.github.io/kruidvat-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Genya10&repo=shop-fullstack)](https://Genya10.github.io/shop-fullstack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Genya10&repo=chess)](https://Genya10.github.io/chess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Genya10&repo=todolist-react-materials)](https://Genya10.github.io/todolist-react-materials)
+
+
