@@ -27,7 +27,7 @@ I'm a Frontend developer. I live in Ukraine.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Genya10&repo=kruidvat-react)](https://Genya10.github.io/kruidvat-react)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Genya10&repo=shop-fullstack)](https://Genya10.github.com/shop-fullstack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Genya10&repo=shop-fullstack)](https://github.com/Genya10/shop-fullstack)
 
 
 
