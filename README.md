@@ -1,4 +1,4 @@
-### Hi there,my name Jenya 👋
+### Hi there,my name is Jenya 👋
 
 I'm a Frontend developer. I live in Ukraine.
 
