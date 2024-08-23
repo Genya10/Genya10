@@ -20,6 +20,9 @@ I'm a Frontend developer. I live in Ukraine.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badget&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badget&logo=express)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-090909?style=for-the-badget&logo=sequelize)
+![Zustand](https://img.shields.io/badge/-Zustand-090909?style=for-the-badget&logo=zustand)
+![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badget&logo=tailwind)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genya10&layout=compact)
 
